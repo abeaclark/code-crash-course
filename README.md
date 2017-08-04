@@ -1,15 +1,11 @@
 # Code Crash Course
-
-## Course Description:
-
-The goal of this course is to lay a foundation for someone who has little to no experience writing code to become a full-stack software developer. Upon completion, you will feel confident enough to create a functioning CRUD API in python, a stand-alone frontend in Javascript, and integrate with helpful 3rd-party APIs.
-
-The concepts covered will give you a strong foundation so that you can go on to learn other programming languages with confidence.
+Self-taught full-stack software developement bootcamp curriculum
 
 ## Approach:
-This is a self-led course. The goal of the course material is to give you **brief** introductions to important concepts, organized in a logical manner. It also provides helpful resources to learn & practice these concepts in greater depth.
-
-If at any point you think that an activity, link, reading, etc. is not helping you learn, then skip it an go on.
+ * Self-led, I recommend finding a mentor who can help answer questions as they come up
+ * Course material gives a **brief** introduction to important concepts, organized in a logical manner
+ * Further instruction and practice can be found at linked resources for each topic, if needed
+ * Only do what is valuable to you
 
 ## Languages we'll cover:
 * html
@@ -17,6 +13,17 @@ If at any point you think that an activity, link, reading, etc. is not helping y
 * javascript (vanilla, jquery, React)
 * python
 * sql (basics)
+
+## End result:
+* Practical knowledge of how to build:
+  - A monolith web app in Django (python)
+  - A JSON API in Django (python)
+  - A Standalone Javascript frontend in React (Javascript)
+* Confidence in:
+  - Learning other programming languages & frameworks
+  - Using git for version control
+  - Simple deployments
+  - Basic security
 
 ## Table of Contents
 * [Week 1](week-1)
@@ -28,3 +35,8 @@ If at any point you think that an activity, link, reading, etc. is not helping y
 * [Week 7](week-7)
 * [Week 8](week-8)
 * [Week 9](week-9)
+
+## Pay it forward
+If this curriculum is helpful for you, consider doing the following:
+* Contribute to the curriculum by opening a pull request with a typo fix, additional resource, practice problem, etc. See the Contributing guidlines
+* Become a mentor for someone else who is learning how to code

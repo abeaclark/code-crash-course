@@ -1,5 +1,5 @@
 # Global settings applied to the whole site.
 [build]
   base    = "frontend"
-  publish = "public"
+  publish = "frontend/public"
   command = "npm run build"

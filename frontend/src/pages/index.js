@@ -5,29 +5,41 @@ import Helmet from 'react-helmet'
 
 import GithubStars from '../components/GithubStars'
 import { rhythm } from '../utils/typography'
+import config from '../../../config.json'
+import _ from 'lodash'
 
 class BlogIndex extends React.Component {
   render() {
-    const pageLinks = []
+    const weekElements = []
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
-    posts.forEach(post => {
-      console.log(post)
-      if (post.node.fields.slug !== '/404/' && post.node.frontmatter.title !== '' && !post.node.frontmatter.isTableOfContents) {
-        const title = get(post, 'node.frontmatter.title') || post.node.path
+    config.weeks.forEach((week, index) => {
+      const pageLinks = []
+      week.pages.forEach((slug) => {
+        const matchingPost = _.find(posts, (post) => { return post.node.fields.slug.includes(slug) })
+        if (!matchingPost) {
+          return
+        }
+
         pageLinks.push(
           <li
-            key={post.node.fields.slug}
+            key={matchingPost.node.fields.slug}
             style={{
               marginBottom: rhythm(1 / 4),
             }}
           >
-            <Link style={{ boxShadow: 'none' }} to={post.node.fields.slug}>
-              {post.node.frontmatter.title}
+            <Link style={{ boxShadow: 'none' }} to={matchingPost.node.fields.slug}>
+              {matchingPost.node.frontmatter.title}
             </Link>
           </li>
         )
-      }
+      })
+      weekElements.push(
+        <div>
+          Week {index + 1}
+          {pageLinks}
+        </div>
+      )
     })
 
     return (
@@ -35,7 +47,7 @@ class BlogIndex extends React.Component {
         <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
         <GithubStars />
         <ul>
-          {pageLinks}
+          {weekElements}
         </ul>
       </div>
     )

@@ -2,6 +2,7 @@ import React from "react"
 import Helmet from "react-helmet"
 import Link from "gatsby-link"
 import get from "lodash/get"
+import NextPrevious from '../components/NextPrevious'
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -17,6 +18,7 @@ class PageTemplate extends React.Component {
         <h1>
           {page.frontmatter.title}
         </h1>
+        <NextPrevious />
         <p
           style={{
             ...scale(-1 / 5),
@@ -33,6 +35,7 @@ class PageTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
+        <NextPrevious />
       </div>
     )
   }

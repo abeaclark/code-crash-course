@@ -1,3 +1,9 @@
+---
+title: Week 4
+week: 4
+isTableOfContents: true
+---
+
 # Week 4
 * [MVC Framework](mvc-framework.md)
 * [Templating Languages](templating-languages.md)

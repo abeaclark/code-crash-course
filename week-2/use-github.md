@@ -1,3 +1,8 @@
+---
+title: Use Github
+week: 2
+---
+
 ## Use Github
 Now, you have your first functioning piece of code that you can show the world. We should use git to make dealing with this code easier, and more fool-proof.
 

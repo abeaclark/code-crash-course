@@ -1,3 +1,8 @@
+---
+title: Your first Web App
+week: 3
+---
+
 ## Your first Web App
 Great, now let's make this web app useful for something!
 

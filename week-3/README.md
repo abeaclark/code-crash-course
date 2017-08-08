@@ -1,3 +1,9 @@
+---
+title: Week 3
+week: 3
+isTableOfContents: true
+---
+
 # Week 3
 * [Code Hygiene](code-hygiene.md)
 * [Database Schema Design](database-schema-design.md)

@@ -1,3 +1,8 @@
+---
+title: Database Schema Design
+week: 3
+---
+
 ## Database Schema Design
 Two popular type of of databases are `Relational Databases` (ex: postgres, mysql, sqlite) and `Non-relational databases` (ex: mongoDB). Each has advantages. Most people start with Relational Databases, because they have a lot of advantages out of the box, and fit the majority of use cases.
 

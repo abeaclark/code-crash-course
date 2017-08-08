@@ -1,3 +1,8 @@
+---
+title: Jquery
+week: 4
+---
+
 ## Jquery
 Jquery is a javascript library that helps make interacting with the DOM easier. You can use it by either downloading the package from NPM, or, simply including a line of code to include it in your base html. In this course we will be focusing on using React for the frontend. When you use React, you shouldn't need Jquery. However, it is still good to know about and to know how to use for several reasons:
 * Lots and lots of sites use Jquery in some capacity

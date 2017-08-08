@@ -1,3 +1,8 @@
+---
+title: Psuedocode
+week: 2
+---
+
 ## Psuedocode
 Psuedocode is the process of writing words to represent what you will write in code. Psudeocode is language agnostic (this same psuedocode could be implemented in Python, Ruby, etc.). It is a tool to help you organize your thoughts before coding, and also coordinate with other developers to make sure you are all aligned on the vision.
 

@@ -1,3 +1,8 @@
+---
+title: REST APIs
+week: 5
+---
+
 ## REST APIs
 What is an API? An API is an interface that allows you to interact with another system. We are going to focus on web APIs, which are a series of URL endpoints that create the interface for another website.
 

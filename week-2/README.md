@@ -1,3 +1,9 @@
+---
+title: Week 2
+week: 2
+isTableOfContents: true
+---
+
 # Week 2
 * [Psuedocode](psuedocode.md)
 * [Introduction to Object-oriented programming](introduction-to-object-oriented-programming.md)

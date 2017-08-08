@@ -1,3 +1,8 @@
+---
+title: Javascript
+week: 4
+---
+
 ## Javascript
 Javascript is a language that (now) can be used on the frontend (in a browser -- Chrome, Internet Explorer, etc, -- or mobile app -- iOS, Android --) or backend (node.js). This makes it extremely versatile. It is both loved and hated adamantly in the coding community. Regardless of whether it is a good or bad language, it is pervasive and will be important for you to know.
 

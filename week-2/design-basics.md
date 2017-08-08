@@ -1,3 +1,8 @@
+---
+title: Design Basics
+week: 2
+---
+
 ## Design Basics
 Here you’ll find an outline of a very simplified design process:
  

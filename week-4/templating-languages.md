@@ -1,3 +1,8 @@
+---
+title: Templating Languages
+week: 4
+---
+
 ## Templating Languages
 Templating languages help you include variables and logic inside a shell of static content. For example, on your web site, lot's of your content will be the same on every page, and lots of the content on a given page won't change depending on the user. But, there are certain elements you want to update, such as the user's name when they log in. Templating give you a way to do this.
 

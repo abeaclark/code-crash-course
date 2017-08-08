@@ -1,3 +1,8 @@
+---
+title: Secrets Management
+week: 5
+---
+
 ## Secrets Management
 When building a site, it is very likely that you will need to include sensitive values that you do not want to expose to the world. How do you keep these safe?
 

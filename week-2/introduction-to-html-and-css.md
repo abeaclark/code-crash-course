@@ -1,3 +1,8 @@
+---
+title: Introduction to HTML & CSS
+week: 2
+---
+
 ## Introduction to HTML & CSS
 HTML and CSS are basic elements to web development. HTML controls the content of the page, css controls the styling.
 

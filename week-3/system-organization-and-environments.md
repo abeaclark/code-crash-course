@@ -1,3 +1,8 @@
+---
+title: System Organization and Environments
+week: 3
+---
+
 ## System Organization and Environments
 The filesystem of a computer is divided into a tree. When you type `cd` into your terminal, it takes you to `~` directory, which is like home base. From there, if you type `ls`, you'll see `Desktop`, `Downloads`, etc.
 

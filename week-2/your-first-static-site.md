@@ -1,3 +1,8 @@
+---
+title: Your first static site
+week: 2
+---
+
 ## Your first static site
 Let's be honest, you want to make something cool. Lets start with your personal site. When we are done, we'll have your site up on the web so you can show it off.
 

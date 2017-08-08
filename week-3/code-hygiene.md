@@ -1,3 +1,8 @@
+---
+title: Code Hygiene
+week: 3
+---
+
 ## Code Hygiene
 We previously talked about keeping your code clean by using single-purpose functions as much as is reasonable. Now, let's talk about code formatting. Just like we have rules for indentation, spacing, etc. in English, coding languages also have these rules. Each language has different guidelines.
 

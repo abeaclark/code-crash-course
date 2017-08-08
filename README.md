@@ -1,3 +1,8 @@
+---
+title: Code Crash Course
+isTableOfContents: true
+---
+
 # Code Crash Course
 Self-taught full-stack software developement bootcamp curriculum
 

@@ -1,3 +1,8 @@
+---
+title: The Command Line
+week: 1
+---
+
 ## The Command Line
 Your Mac comes with a program called `Terminal`. Later, you will install a program called iTerm. These both give you access to the terminal or "shell" of the computer. This gives you direct access to the Linux or Unix that is running your machine. Everything you can do in the GUI, you can do in the terminal. 
 

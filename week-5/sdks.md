@@ -1,3 +1,8 @@
+---
+title: sdks
+week: 5
+---
+
 ## sdks
 Some APIs can get VERY big. Or, they may have a series of API calls you need to make to accomplish a given task. Or perhaps you call the APIs a lot in your application and you want an easy way to do so. In these cases, finding or writing an sdk makes sense.
 

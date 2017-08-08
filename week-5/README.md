@@ -1,3 +1,9 @@
+---
+title: Week 5
+week: 5
+isTableOfContents: true
+---
+
 # Week 5
 
 * [REST APIs](rest-apis.md)

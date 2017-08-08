@@ -1,3 +1,8 @@
+---
+title: Single-purpose Functions
+week: 2
+---
+
 ## Single-purpose Functions
 Code that is easily readable and reusable is extremely important. It is likely that code you write today will be edited a year from now by someone who has no idea how it is structured. Clearly-named, single-purpose functions can be a powerful tool to aid code readability and reuse. It also helps to keep you code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 

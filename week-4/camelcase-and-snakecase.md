@@ -1,3 +1,8 @@
+---
+title: camelCase and snake_case
+week: 4
+---
+
 ## camelCase and snake_case
 After coding for a few weeks now, you have probably noticed that code employs some different capitalization schemes than traditional English. Each language has preferences for how to write variables, classes, etc. Typically things are written in `camelCase`, `snake_case`, or (sometimes) `PascalCase`.
 

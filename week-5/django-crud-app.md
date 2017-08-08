@@ -1,3 +1,7 @@
+---
+title: Django CRUD app
+week: 5
+---
 
 ## Django CRUD app
 Now that you understand how to use models, migrations, and views, you are prepared to create fully functioning web apps. You also have enough knowledge to start following other online Django tutorials successfully. Since you know how different pieces work, you'll be able to better follow what the tutorials are doing.

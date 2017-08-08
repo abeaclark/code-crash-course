@@ -1,3 +1,8 @@
+---
+title: JSON, YAML, XML
+week: 4
+---
+
 ## JSON, YAML, XML
 There are several ways to represent data in a coded form. JSON, YAML, and XML are three of the most prevalent. The goal of each is generally the same, provide a way to type in data that can be interpreted by other programs. They are a standardized way of communicating in code. Here are a few snippets to show what each looks like, along with some common mistakes people make when writing:
 

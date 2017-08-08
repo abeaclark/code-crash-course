@@ -1,3 +1,8 @@
+---
+title: SQL
+week: 3
+---
+
 ## SQL
 SQL is the language used to interact with Relational Databases. It has lots of functions but a few of the most common are:
 * Create a table

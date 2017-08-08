@@ -1,3 +1,8 @@
+---
+title: Authentication
+week: 5
+---
+
 ## Authentication
 When you visit a site like Facebook or Twitter, how does the site know who you are? How does it know to show you *your* news feed and not your brother's news feed?
 

@@ -1,3 +1,8 @@
+---
+title: Introduction to Object-oriented programming
+week: 2
+---
+
 ## Introduction to Object-oriented programming
 
 How is code organized? A popular paradigm is `Object Oriented Programming`. This approach involves creating small, specialized groups of code that pertain to a certain domain. An easy way to think of it is that the code is parallel to real life objects. Here is an example:

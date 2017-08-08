@@ -1,3 +1,8 @@
+---
+title: Introduction to Software Packages
+week: 1
+---
+
 ## Introduction to Software Packages
 Thank goodness, you don't have to start from scratch every time you write software. Developers have written and published lots of tools to help you along the way. Lots of times, for simple projects you can simple string together pieces of code that others have written!
 

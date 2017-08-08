@@ -1,3 +1,8 @@
+---
+title: Anatomy of a Web App
+week: 3
+---
+
 ## Anatomy of a Web App
 Things are getting exciting. We are going to build our first web app. Last week you deployed some static HTML an CSS. A web app is different because it is hooked up to a database, can serve dynamic content, and do lots of other cool things.
 

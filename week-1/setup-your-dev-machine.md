@@ -1,3 +1,8 @@
+---
+title: Setup your dev machine
+week: 1
+---
+
 ## Setup your dev machine
 
 Software development makes use of lots of tools that don't come standard on most computers. Many tutorials you will find will say things like "install git", "use brew to install the cli", or something similar. It is easiest if you can set up many of these things up front, that way you are ready when you need them.

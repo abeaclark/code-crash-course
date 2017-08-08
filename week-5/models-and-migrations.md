@@ -1,3 +1,8 @@
+---
+title: Models and Migrations
+week: 5
+---
+
 ## Models and Migrations
 Up to this point, we have been running without a database. This means that we have no reliable way to persist data on the server. Let's look at how to set up a database to work with Django. This will allow us to persist data in our models and will finally get rid of this annoying error you have been seeing:
 ```

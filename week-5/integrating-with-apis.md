@@ -1,3 +1,8 @@
+---
+title: Integrating With APIs
+week: 5
+---
+
 ## Integrating With APIs
 It's time to practice working with APIs. We can work with APIs on the frontend or backend, so we will practice both!
 

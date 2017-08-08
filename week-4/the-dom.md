@@ -1,3 +1,8 @@
+---
+title: The DOM
+week: 4
+---
+
 ## The DOM
 
 Resources:

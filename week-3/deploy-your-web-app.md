@@ -1,4 +1,9 @@
-## Deploy your Web App:
+---
+title: Deploy your Web App
+week: 3
+---
+
+## Deploy your Web App
 Right now, only people on our local machine can see these jokes. Let's share with the world. We will use a service called Heroku to deploy our web app. Heroku has a free tier. Essentially they shut off your server when you're not using it to save money. This makes it take several seconds to respond when you first request a page, but after that it works great!
 
 Before you can use Heroku, you need to [create an account](https://signup.heroku.com/login). Do that now. You may be asked for a credit card, but you will not be charged unless you elect to have a non-free plan.

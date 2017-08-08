@@ -1,3 +1,8 @@
+---
+title: MVC Framework
+week: 4
+---
+
 ## MVC Framework
 The MVC Framework is a useful way of thinking about and organizing your code for a web app. Different languages have different preferred ways of organizing code, but it is usually a close variant to MVC.
 

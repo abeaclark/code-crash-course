@@ -1,3 +1,8 @@
+---
+title: Common Architectures
+week: 5
+---
+
 ## Common Architectures
 Let's take a moment and talk about two common architectures:
 * Monolith Web App

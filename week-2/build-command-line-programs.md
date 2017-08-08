@@ -1,3 +1,8 @@
+---
+title: Build command-line programs
+week: 2
+---
+
 ## Build command-line programs
 The command line is a simple interface, which makes it great for experimenting with new code concepts. Here is an example script to show you how you can work with the command line:
 ```

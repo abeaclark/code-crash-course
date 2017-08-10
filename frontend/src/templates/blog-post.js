@@ -18,7 +18,7 @@ class PageTemplate extends React.Component {
         <h1>
           {page.frontmatter.title}
         </h1>
-        <NextPrevious />
+        <NextPrevious slug={page.fields.slug} />
         <p
           style={{
             ...scale(-1 / 5),
@@ -35,7 +35,7 @@ class PageTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
-        <NextPrevious />
+        <NextPrevious slug={page.fields.slug} />
       </div>
     )
   }

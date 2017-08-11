@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "fs": "0.0.1-security",
-    "gatsby": "^1.6.5",
+    "gatsby": "^1.8.1",
     "gatsby-link": "^1.6.5",
     "gatsby-plugin-google-analytics": "^1.0.0",
     "gatsby-plugin-manifest": "^1.0.0",
